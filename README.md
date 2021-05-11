@@ -1,4 +1,4 @@
-This is a simple E-Commerce website landing page made with just html and css and bootstarp I tried to do it as fast as possible and also tried no to make any differendifference from the given 
+This is a simple E-Commerce website landing page made with just html and css and bootstarp I tried to do it as fast as possible and also tried not to make any difference from the given 
 example. Except in someplaces I used icons rather than images as it was easily availble. And I used one image multiple times because all images weren't present in the gallery which was provided.
 Here are some screenshots of the landing page I made.......
 
